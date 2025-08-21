@@ -1,0 +1,13 @@
+<p>mala works!</p>
+
+@if (value){
+    <h2> Quando o valor "value" aparecer é true</h2>
+} @else {
+    <h2> BUUUUMMM </h2>
+} 
+
+@for (item of lista; track $index) {
+    <p> {{item}}</p> 
+} @empty {
+    <p> Vazio</p>
+}
