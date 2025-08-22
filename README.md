@@ -1,5 +1,5 @@
 # 📘 Estudos em Angular  
-
+<img src="img-angular/img-1.jpg" alt="App Screenshot" width="100%" height="500"/>
 Repositório criado para documentar meu aprendizado em **Angular**, com exemplos práticos e anotações sobre os principais conceitos.  
 
 ---
