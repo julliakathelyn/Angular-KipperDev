@@ -29,3 +29,17 @@ Durante meus estudos, utilizei esse aulão da Fernanda Kipper no YouTube como ba
 ### 🔹 StandaloneVsNgModules  
 - Comparativo entre a abordagem tradicional com **NgModules** e a moderna com **Standalone Components**.  
 - Quando usar cada um e como migrar.  
+
+---
+
+## 🔹 Pré-requisitos  
+- **Node.js** instalado → [Download Node.js](https://nodejs.org/)  
+- **Angular CLI** instalado globalmente:  
+```bash
+npm install -g @angular/cli
+
+ng new meu-projeto
+
+cd meu-projeto 
+
+
