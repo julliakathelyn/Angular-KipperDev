@@ -1,8 +1,16 @@
-# 📘 Estudos em Angular  
-<img src="img-angular/img-1.jpg" alt="App Screenshot" width="100%" height="500"/>
-Repositório criado para documentar meu aprendizado em **Angular**, com exemplos práticos e anotações sobre os principais conceitos.  
+# 📕  Angular do ZERO  
+<img src="img-angular/img-1.png" alt="App Screenshot" width="100%" height="500"/>
+Repositório criado para documentar meu aprendizado em **Angular**, com exemplos práticos e anotações sobre os principais conceitos dentro no notion.  
 
 ---
+##  Referência de estudo
+
+Durante meus estudos, utilizei esse aulão da Fernanda Kipper no YouTube como base:
+
+- [Aulão - Fernanda Kipper](https://www.youtube.com/live/e4OLH13mVKc)
+<p align="center">
+  <img src="img-angular/img-2.png" alt="App Screenshot" width="800" align=center/>
+</p>
 
 ## 📑 Conteúdo do Repositório  
 
